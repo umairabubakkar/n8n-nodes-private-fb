@@ -1,4 +1,4 @@
-# Facebook Page Publisher for n8n - Easy API Integration Made Simple
+# Facebook Page Integration for n8n - Easy API Integration Made Simple
 
 [![npm version](https://img.shields.io/npm/v/@umairabubakkar/n8n-nodes-private-fb.svg)](https://www.npmjs.com/package/@umairabubakkar/n8n-nodes-private-fb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -812,10 +812,10 @@ If image uploads fail, check:
 ## 📈 Keywords & SEO
 
 ### 🔍 Core n8n Facebook Keywords
-`n8n` `n8n-node` `n8n-community-node` `facebook` `facebook-api` `social-media` `automation` `workflow` `integration` `oauth2` `graph-api` `page-publisher` `social-posting` `triggers` `webhooks` `real-time` `ai-agent` `ai-tool` `logging` `langchain`
+`n8n` `n8n-node` `n8n-community-node` `facebook` `facebook-api` `social-media` `automation` `workflow` `integration` `oauth2` `graph-api` `page-integration` `social-posting` `triggers` `webhooks` `real-time` `ai-agent` `ai-tool` `logging` `langchain`
 
 ### 🚀 Facebook Integration Keywords
-`n8n-facebook` `n8n-facebook-integration` `n8n-facebook-node` `facebook-graph-api` `facebook-automation` `facebook-bot` `social-media-automation` `easy-integration` `facebook-messenger` `facebook-insights` `facebook-posting` `facebook-comments` `facebook-pages` `facebook-marketing` `facebook-analytics` `facebook-webhooks` `facebook-oauth` `facebook-publisher` `facebook-scheduler`
+`n8n-facebook` `n8n-facebook-integration` `n8n-facebook-node` `facebook-graph-api` `facebook-automation` `facebook-bot` `social-media-automation` `easy-integration` `facebook-messenger` `facebook-insights` `facebook-posting` `facebook-comments` `facebook-pages` `facebook-marketing` `facebook-analytics` `facebook-webhooks` `facebook-oauth` `facebook-integration` `facebook-scheduler`
 
 ### 📱 Facebook Features Keywords
 `facebook-content` `facebook-engagement` `facebook-management` `facebook-tools` `facebook-integration` `facebook-workflow` `facebook-triggers` `facebook-events` `facebook-media` `facebook-photos` `facebook-videos` `facebook-links` `facebook-api-v18` `facebook-graph` `facebook-sdk`
