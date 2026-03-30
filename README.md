@@ -886,3 +886,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for the n8n community**
 
 Transform your Facebook page management with powerful automation, AI integration, and real-time monitoring capabilities!
+## Contributing
+Contributions are welcome! Please open an issue first to discuss what you would like to change.
